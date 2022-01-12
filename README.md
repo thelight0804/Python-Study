@@ -1,7 +1,7 @@
 # Python_Study
 Nifskor과 진행하는 Python 스터디이다.
 
-With <a href="https://thelight0804.notion.site/Python-3e8cc8c94e97407aa4141c0e36d319a4" target="Notion"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+With <a href="https://thelight0804.notion.site/Python-fd5843dd0b294da8b823fc85a124b02b" target="Notion"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 
 
 ## 강의 자료
